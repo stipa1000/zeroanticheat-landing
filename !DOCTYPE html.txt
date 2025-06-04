@@ -83,10 +83,10 @@
     <p>
       Zájemci o ZeroAntiCheat mě mohou kontaktovat přes Discord:
       <br />
-      <strong><a href="https://discord.gg/tvujdiscord" target="_blank" style="color:#00d1b2;">discord.gg/tvujdiscord</a></strong>
+      <strong><a href="https://https://discord.gg/jjf3DxvNtu" target="_blank" style="color:#00d1b2;">https://discord.gg/jjf3DxvNtu</a></strong>
     </p>
 
-    <a href="https://discord.gg/tvujdiscord" target="_blank" class="button">Kontaktuj mě na Discordu</a>
+    <a href="https://https://discord.gg/jjf3DxvNtu" target="_blank" class="button">Kontaktuj mě na Discordu</a>
   </main>
 
   <footer>
