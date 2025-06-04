@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ZeroAntiCheat - Anticheat pro FiveM ESX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #121212;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #00d1b2;
+    }
+    main {
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #00d1b2;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      background: #2c2c2c;
+      margin-bottom: 10px;
+      padding: 15px;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1f1f1f;
+      color: #777;
+      margin-top: 50px;
+    }
+    a.button {
+      display: inline-block;
+      padding: 12px 25px;
+      margin-top: 20px;
+      background: #00d1b2;
+      color: #121212;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    a.button:hover {
+      background: #00b38f;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ZeroAntiCheat</h1>
+    <p>Spolehlivý anticheat pro FiveM ESX servery</p>
+  </header>
+
+  <main>
+    <h2>Funkce ZeroAntiCheat</h2>
+    <ul>
+      <li>Detekce zakázaných zbraní a okamžité odstranění</li>
+      <li>Automatické logování podezřelých aktivit na Discord</li>
+      <li>Ochrana proti spawnování zakázaných vozidel a objektů</li>
+      <li>Automatický kick hráčů při porušení pravidel</li>
+      <li>Detekce teleportů a podezřelého pohybu hráčů</li>
+      <li>Jednoduchá konfigurace a nastavení přes config.lua</li>
+    </ul>
+
+    <h2>Jak koupit</h2>
+    <p>
+      Zájemci o ZeroAntiCheat mě mohou kontaktovat přes Discord:
+      <br />
+      <strong><a href="https://discord.gg/tvujdiscord" target="_blank" style="color:#00d1b2;">discord.gg/tvujdiscord</a></strong>
+    </p>
+
+    <a href="https://discord.gg/tvujdiscord" target="_blank" class="button">Kontaktuj mě na Discordu</a>
+  </main>
+
+  <footer>
+    &copy; 2025 Štípa - ZeroAntiCheat
+  </footer>
+</body>
+</html>
